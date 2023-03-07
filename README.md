@@ -1,4 +1,10 @@
 # belajar-html
-Belajar HTML dasar WPU
+List Belajar Coding
 
-Link playlist : https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
+-Dasar HTML
+-HTML 5
+-CSS Dasar
+-CSS Layouting
+-CSS 3
+-CSS Framework [Tailwind]
+-Java Script
