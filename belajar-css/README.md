@@ -9,3 +9,6 @@ h1 {
 Embed html : <style> </style>
 Inline : <p style="color: lightblue;"> ... </p>
 External : <link rel="stylesheet" href="style.css">
+
+Font :
+font-family, font-size, font-weight(Ketebalan), font-variant
