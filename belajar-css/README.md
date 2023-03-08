@@ -11,4 +11,6 @@ Inline : <p style="color: lightblue;"> ... </p>
 External : <link rel="stylesheet" href="style.css">
 
 Font :
-font-family, font-size, font-weight(Ketebalan), font-variant
+font-family, font-size, font-weight(Ketebalan), font-variant, line-height
+
+font-family : nama font, generic family
