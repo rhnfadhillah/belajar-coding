@@ -45,3 +45,5 @@ background : bg-color, bg-image, bg-position, bg-repeat
 subtlepatterns.com : referensi background website
 
 background shorthand : background: color url() repeat position 
+
+selector : element HTML, id, class, complex selector
