@@ -39,3 +39,5 @@ body {
 <!-- Wajib urut -->
 
 text : color, text-align, text-indent, text-decoration, text-transform, letter-spacing, word-spacing
+
+background : bg-color, bg-image, bg-position, bg-repeat
