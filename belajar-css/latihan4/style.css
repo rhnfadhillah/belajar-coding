@@ -1,0 +1,7 @@
+body {
+  background-color: grey;
+  background-image: url(nature1.jpg);
+  background-repeat: repeat-x;
+
+  /* background-position: top/center/bottom left/center/right; */
+}

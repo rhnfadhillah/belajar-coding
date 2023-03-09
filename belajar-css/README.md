@@ -41,3 +41,7 @@ body {
 text : color, text-align, text-indent, text-decoration, text-transform, letter-spacing, word-spacing
 
 background : bg-color, bg-image, bg-position, bg-repeat
+
+subtlepatterns.com : referensi background website
+
+background shorthand : background: color url() repeat position 
