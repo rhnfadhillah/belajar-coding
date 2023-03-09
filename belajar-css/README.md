@@ -38,4 +38,4 @@ body {
 }
 <!-- Wajib urut -->
 
-text : color, text-align, text-indent, text-decoration, text-transform
+text : color, text-align, text-indent, text-decoration, text-transform, letter-spacing, word-spacing
