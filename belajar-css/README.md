@@ -37,3 +37,5 @@ body {
   font : italic, normal, bold, 16px, 18px, helvetica, arial, sans-serif;
 }
 <!-- Wajib urut -->
+
+text : color, text-align, text-indent, text-decoration, text-transform
